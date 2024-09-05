@@ -3,11 +3,13 @@
 ## Overview
 
 This repository contains a Python notebook for analyzing supermarket sales data using Python libraries like Pandas, Matplotlib, Seaborn, and Scipy
+I also created an interactive dashboard in Microsoft Power BI to explore how the findings from this analysis can be put into one single dashboard. 
 
 ## Files
 
 - `supermarket_sales.ipynb`: Jupyter Notebook with the analysis and visualizations.
 - `supermarket.csv`: Dataset used for the analysis.
+- `supermarket_sales_dashboard.pdf`: Snapshot of the interactive dashboard created using Microsoft Power BI
 
 ## Analysis
 
