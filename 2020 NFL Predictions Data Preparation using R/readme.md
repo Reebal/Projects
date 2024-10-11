@@ -20,5 +20,6 @@ Files Included:
 
 - data_prep_nfl.Rmd: RMarkdown file containing the data preparation code.
 - data_prep_nfl.html: Rendered output file from the RMarkdown analysis.
+- data_prep_nfl.knit.pdf: Output file in pdf format
 - nfl_elo_latest.xlsx: Original dataset containing NFL predictions.
 - cleaned_dataset.csv: Final cleaned dataset ready for analysis.
